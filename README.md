@@ -1,17 +1,17 @@
 ## <p align="center" >*Olá, sou Rodrigo Gomes* 💻🕹️ </p>
 
-<div style='dislay: inline_block'>
 - Apaixonado por tecnologia;
 - Buscando sempre por inovação;
 
 
 E o melhor jeito de me encontrar:
-</div>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white
-)](rodrigogsantos285@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rodrigo-gomes-288a63196/)
+<div style='dislay: inline_block'>
+  
+<a href = "rodrigogsantos285@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/iagorcarvalho](https://www.linkedin.com/in/rodrigo-gomes-288a63196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 
 Conhecimentos nessas tecnologias:
 <hr>
