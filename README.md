@@ -21,8 +21,4 @@ Conhecimentos nessas tecnologias:
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<div style='dislay: inline_block'>
-  <a href="https://github.com/rgdsantos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rgdsantos&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false&amp;show_owner=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rgdsantos&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false&amp;show_owner=true" style="max-width: 100%;">
-  </a>
-</div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=rgdsantos&show_icons=true)
