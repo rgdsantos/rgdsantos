@@ -21,5 +21,5 @@ Conhecimentos nessas tecnologias:
 <img align="center" alt="php" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/Mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="php" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/nodejs-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
