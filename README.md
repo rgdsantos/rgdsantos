@@ -1,4 +1,4 @@
-
+<div align="center" dir="auto">
 ### Olá, sou Rodrigo Gomes 💻🕹️
 
 
@@ -12,6 +12,7 @@ E o melhor jeito de me encontrar:
 )](rodrigogsantos285@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rodrigo-gomes-288a63196/)
+</div>
 
 Conhecimentos nessas tecnologias:
 <hr>
