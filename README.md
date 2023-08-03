@@ -4,14 +4,14 @@
   Apaixonado por tecnologia<br>
   Buscando sempre por inovação<br><br>
 
-  *O melhor jeito de me encontrar:*
+  <strong>O melhor jeito de me encontrar:</strong>
     
   <a href = "rodrigogsantos285@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/iagorcarvalho](https://www.linkedin.com/in/rodrigo-gomes-288a63196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 
 <div align="center">
-  Conhecimentos nessas tecnologias:
+  <strong>Conhecimentos nessas tecnologias:</strong>
   <hr>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
