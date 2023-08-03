@@ -1,11 +1,12 @@
-### Olá, sou Rodrigo Gomes 💻🕹️
+## <p align="center" >*Olá, sou Rodrigo Gomes* 💻🕹️ </p>
 
-
+<div style='dislay: inline_block'>
 - Apaixonado por tecnologia;
 - Buscando sempre por inovação;
 
 
-E o melhor jeito de me encontrar: 
+E o melhor jeito de me encontrar:
+</div>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white
 )](rodrigogsantos285@gmail.com)
